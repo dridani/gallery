@@ -4,3 +4,4 @@ package-lock.json
 exampleSite/assets/jsconfig.json
 .DS_Store
 public
+resources
